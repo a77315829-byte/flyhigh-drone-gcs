@@ -1,0 +1,4 @@
+pymavlink
+tkintermapview
+Pillow
+requests
