@@ -9,6 +9,8 @@
 
 ![코드를 기준으로 정리한 처리 흐름](docs/portfolio/architecture.png)
 
+[구성도 SVG 원본](docs/portfolio/architecture.svg)
+
 ## 본인 기여
 
 프로그램 기획·화면·MAVLink 통신·실습 안내·AI 보조 기능을 단독 개발했습니다. 실제 기체 대신 SITL을 사용하는 교육 프로그램입니다.

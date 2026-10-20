@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+<text x="35" y="38" font-size="30" fill="#4964ce" font-weight="700" text-anchor="start">ASSIST → CHECK → CONTROL ↔ TELEMETRY</text>
+<text x="35" y="71" font-size="22" fill="#64718a" font-weight="400" text-anchor="start">FLYHIGH / 자연어 보조와 실제 조작을 구분하고 기체 상태를 화면으로 되돌림</text>
+<polyline points="315,200 360,200 360,172 410,172" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="410,172 399.1946347717679,177.21958640933477 399.1946347717679,166.78041359066523" fill="#4964ce"/>
+<polyline points="545,220 545,285" fill="none" stroke="#a36316" stroke-width="3" stroke-dasharray="10 7"/>
+<polygon points="545,285 539.7804135906653,274.1946347717679 550.2195864093347,274.1946347717679" fill="#a36316"/>
+<polyline points="315,200 360,200 360,332 410,332" fill="none" stroke="#a36316" stroke-width="3" stroke-dasharray="10 7"/>
+<polygon points="410,332 399.1946347717679,337.21958640933474 399.1946347717679,326.78041359066526" fill="#a36316"/>
+<polyline points="680,172 730,172 730,220 780,220" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="780,220 769.1946347717678,225.21958640933477 769.1946347717678,214.78041359066523" fill="#4964ce"/>
+<polyline points="680,332 730,332 730,267 780,267" fill="none" stroke="#a36316" stroke-width="3"/>
+<polygon points="780,267 769.1946347717678,272.21958640933474 769.1946347717678,261.78041359066526" fill="#a36316"/>
+<polyline points="1105,242 1230,242" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="1230,242 1219.1946347717678,247.21958640933477 1219.1946347717678,236.78041359066523" fill="#4964ce"/>
+<polyline points="1392,305 1392,435" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="1392,435 1386.7804135906651,424.1946347717679 1397.2195864093349,424.1946347717679" fill="#4964ce"/>
+<polyline points="1230,485 1055,485" fill="none" stroke="#4964ce" stroke-width="3"/>
+<polygon points="1055,485 1065.8053652282322,479.78041359066526 1065.8053652282322,490.21958640933474" fill="#4964ce"/>
+<polyline points="630,485 190,485 190,250" fill="none" stroke="#137d78" stroke-width="3" stroke-dasharray="10 7"/>
+<polygon points="190,250 195.21958640933477,260.8053652282321 184.78041359066523,260.8053652282321" fill="#137d78"/>
+<rect x="45" y="150" width="270" height="100" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="180.0" y="195.0" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">자연어 · 목표 지점</text>
+<text x="180.0" y="227.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">사용자 요청</text>
+<rect x="410" y="125" width="270" height="95" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="545.0" y="167.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">Ollama 의도 해석</text>
+<text x="545.0" y="199.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">연결 가능한 경우</text>
+<rect x="410" y="285" width="270" height="95" rx="14" fill="#fff7ec" stroke="#e2c69b" stroke-width="2"/>
+<text x="545.0" y="326.5" font-size="26" fill="#a36316" font-weight="700" text-anchor="middle">규칙 기반 의도 분석</text>
+<text x="545.0" y="358.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">LLM 미사용 / 실패 시</text>
+<rect x="780" y="180" width="325" height="125" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="942.5" y="224.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">교육용 조건 비교</text>
+<text x="942.5" y="256.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">고도 · 거리 · 배터리 여유</text>
+<text x="942.5" y="282.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">코드의 규칙·계산 사용</text>
+<rect x="1230" y="180" width="325" height="125" rx="14" fill="#ffffff" stroke="#d3dced" stroke-width="2"/>
+<text x="1392.5" y="237.5" font-size="28" fill="#172842" font-weight="700" text-anchor="middle">관제 화면에서 확인</text>
+<text x="1392.5" y="269.5" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">추천값 확인 / 명령 조작</text>
+<rect x="1230" y="435" width="325" height="100" rx="14" fill="#eef8f5" stroke="#afd7cf" stroke-width="2"/>
+<text x="1392.5" y="480.0" font-size="28" fill="#137d78" font-weight="700" text-anchor="middle">ArduPilot SITL</text>
+<text x="1392.5" y="512.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">MAVLink / 시뮬레이터</text>
+<rect x="630" y="435" width="425" height="100" rx="14" fill="#eef8f5" stroke="#afd7cf" stroke-width="2"/>
+<text x="842.5" y="480.0" font-size="28" fill="#137d78" font-weight="700" text-anchor="middle">HUD · 실습 CSV</text>
+<text x="842.5" y="512.0" font-size="22" fill="#64718a" font-weight="400" text-anchor="middle">기체 상태 표시 / 조작 이력 저장</text>
+<rect x="561" y="255" width="99.0" height="30" rx="5" fill="white"/>
+<text x="565" y="278" font-size="21" fill="#a36316" font-weight="400" text-anchor="start">대체 경로</text>
+<rect x="1411" y="363" width="50.0" height="30" rx="5" fill="white"/>
+<text x="1415" y="386" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">명령</text>
+<rect x="1036" y="444" width="193.0" height="30" rx="5" fill="white"/>
+<text x="1040" y="467" font-size="21" fill="#4964ce" font-weight="400" text-anchor="start">위치 · 자세 · 배터리</text>
+<rect x="71" y="548" width="225.0" height="30" rx="5" fill="white"/>
+<text x="75" y="571" font-size="21" fill="#137d78" font-weight="400" text-anchor="start">상태 관찰 후 다음 조작</text>
+</g>
+</svg>
